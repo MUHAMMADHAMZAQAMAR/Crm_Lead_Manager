@@ -39,6 +39,14 @@
       "password": "$2a$10$rLNvzR9BFpEw9LmQDzvTAOI9/EMUxMDi88W/86GDstENY.JLEa/k.",
       "createdAt": "2026-07-02T07:17:59.281Z",
       "updatedAt": "2026-07-02T07:17:59.281Z"
+    },
+    {
+      "_id": "3c3f5e0c-dc2e-4665-9f4c-b2a4c3d6f912",
+      "name": "frrr",
+      "email": "poxah68715@heavty.com",
+      "password": "$2a$10$Rgn7EDVOrD2V7t0ZnrTLfuiWvQhSny5L5sWTjqlctelq7MvGH3Mx.",
+      "createdAt": "2026-07-02T13:06:19.492Z",
+      "updatedAt": "2026-07-02T13:06:19.492Z"
     }
   ],
   "leads": [
@@ -129,6 +137,28 @@
       "createdBy": "999e85ad-c104-4dbb-8ab5-3d15d43e93fb",
       "createdAt": "2026-07-02T07:18:12.907Z",
       "updatedAt": "2026-07-02T07:18:12.907Z"
+    },
+    {
+      "_id": "ff56dd16-447e-4a86-8f04-21331034ffe0",
+      "name": "Muhammad Hamza Qamar",
+      "email": "qamarhamza8185@gmail.com",
+      "phone": "+923127960031",
+      "status": "converted",
+      "assignedTo": "fdfdg",
+      "createdBy": "3c3f5e0c-dc2e-4665-9f4c-b2a4c3d6f912",
+      "createdAt": "2026-07-02T13:06:29.405Z",
+      "updatedAt": "2026-07-02T13:07:22.160Z"
+    },
+    {
+      "_id": "68be56f0-73de-487a-955b-6035d1960c01",
+      "name": "Muhammad Hamza Qamar",
+      "email": "qamarhamza8185@gmail.com",
+      "phone": "+923127960031",
+      "status": "new",
+      "assignedTo": "fdfdg",
+      "createdBy": "3c3f5e0c-dc2e-4665-9f4c-b2a4c3d6f912",
+      "createdAt": "2026-07-02T13:06:46.455Z",
+      "updatedAt": "2026-07-02T13:07:19.528Z"
     }
   ]
 }
