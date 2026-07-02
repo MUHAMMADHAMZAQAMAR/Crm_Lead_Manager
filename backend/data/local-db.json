@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "_id": "d986b3eb-83c9-48fe-adb7-f7b302fdd8b4",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2a$10$vBgtUTgbGCqIMD0i5vF6s.2ve0aE7Wb2ZeS0So8yM0jcsgWixkqFC",
+      "createdAt": "2026-07-01T09:34:18.967Z",
+      "updatedAt": "2026-07-01T09:34:18.967Z"
+    },
+    {
+      "_id": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "name": "Hamza",
+      "email": "batob16879@divahd.com",
+      "password": "$2a$10$8T0HKjE7u87KAqdKzhk5.eSrrlWK4qgjmAYvBFIyfZQE6ol4Eqn7C",
+      "createdAt": "2026-07-01T09:51:45.507Z",
+      "updatedAt": "2026-07-01T09:51:45.507Z"
+    },
+    {
+      "_id": "27deb9b8-8f6e-4cf4-8ad6-e8598f10d421",
+      "name": "Test User",
+      "email": "test@test.com",
+      "password": "$2a$10$YRqec5oIBPV9kbCS0yJmHueU8kZG5baifROgG9Gy8qgdcdGu5xC2e",
+      "createdAt": "2026-07-01T10:17:50.432Z",
+      "updatedAt": "2026-07-01T10:17:50.432Z"
+    },
+    {
+      "_id": "a6cbc55e-065b-43ae-b4d5-81309efad1c3",
+      "name": "John Doe",
+      "email": "john@test.com",
+      "password": "$2a$10$fPs.crb7WSie0LSkB6i5Y.HMgchBSCzc8ZaWuxxXD/S0xckDR6xXG",
+      "createdAt": "2026-07-01T10:19:04.967Z",
+      "updatedAt": "2026-07-01T10:19:04.967Z"
+    },
+    {
+      "_id": "999e85ad-c104-4dbb-8ab5-3d15d43e93fb",
+      "name": "fjslf",
+      "email": "wivel98763@fivejm.com",
+      "password": "$2a$10$rLNvzR9BFpEw9LmQDzvTAOI9/EMUxMDi88W/86GDstENY.JLEa/k.",
+      "createdAt": "2026-07-02T07:17:59.281Z",
+      "updatedAt": "2026-07-02T07:17:59.281Z"
+    }
+  ],
+  "leads": [
+    {
+      "_id": "ce7a1429-89cc-4995-9231-aa96f0008baf",
+      "name": "Acme Corp",
+      "email": "sales@acme.com",
+      "phone": "555-123-4567",
+      "status": "new",
+      "assignedTo": "Sam",
+      "createdBy": "d986b3eb-83c9-48fe-adb7-f7b302fdd8b4",
+      "createdAt": "2026-07-01T09:34:27.892Z",
+      "updatedAt": "2026-07-01T09:34:27.892Z"
+    },
+    {
+      "_id": "00fe1002-3064-4628-a672-61605528334d",
+      "name": "wolf",
+      "email": "vejidew974@iapapi.com",
+      "phone": "+92 312-7960031",
+      "status": "contacted",
+      "assignedTo": "WASIF",
+      "createdBy": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "createdAt": "2026-07-01T09:52:09.907Z",
+      "updatedAt": "2026-07-01T10:00:44.160Z"
+    },
+    {
+      "_id": "8ac16cce-ec9f-414f-8001-a4595e76bee1",
+      "name": "wolf",
+      "email": "somif74757@fivejm.com",
+      "phone": "3127960031",
+      "status": "new",
+      "assignedTo": "WASIF",
+      "createdBy": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "createdAt": "2026-07-01T10:00:41.451Z",
+      "updatedAt": "2026-07-01T10:00:41.451Z"
+    },
+    {
+      "_id": "8ec98037-2e66-4a49-9837-cc38f15aa5d5",
+      "name": "wolf",
+      "email": "wocire3953@dyleris.com",
+      "phone": "+92 312-7960031",
+      "status": "converted",
+      "assignedTo": "WASIF",
+      "createdBy": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "createdAt": "2026-07-01T10:07:45.762Z",
+      "updatedAt": "2026-07-01T10:07:52.496Z"
+    },
+    {
+      "_id": "5c54b9ef-55b1-4442-9874-da52af6c1418",
+      "name": "API Test Lead",
+      "email": "apitest@example.com",
+      "phone": "555-9999",
+      "status": "contacted",
+      "assignedTo": "Unassigned",
+      "createdBy": "a6cbc55e-065b-43ae-b4d5-81309efad1c3",
+      "createdAt": "2026-07-01T10:19:50.606Z",
+      "updatedAt": "2026-07-01T10:20:49.356Z"
+    },
+    {
+      "_id": "52e84184-3b71-416a-85b1-2a8e6c55f7b5",
+      "name": "Muhammad Hamza",
+      "email": "somif74757@fivejm.com",
+      "phone": "3127960031",
+      "status": "contacted",
+      "assignedTo": "WASIF",
+      "createdBy": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "createdAt": "2026-07-01T10:22:11.891Z",
+      "updatedAt": "2026-07-01T10:22:15.732Z"
+    },
+    {
+      "_id": "73387e83-c9d4-4a1a-872e-ba5c1855d521",
+      "name": "wolf",
+      "email": "somif74757@fivejm.com",
+      "phone": "3127960031",
+      "status": "contacted",
+      "assignedTo": "WASIF",
+      "createdBy": "9e33b38f-71b7-44c8-a036-b8f1835e80b8",
+      "createdAt": "2026-07-01T10:22:44.409Z",
+      "updatedAt": "2026-07-01T10:22:52.004Z"
+    },
+    {
+      "_id": "9d4a5d22-ef30-4992-870b-b499c3beda23",
+      "name": "Muhammad Hamza Qamar",
+      "email": "qamarhamza8185@gmail.com",
+      "phone": "+923127960031",
+      "status": "new",
+      "assignedTo": "fdfdg",
+      "createdBy": "999e85ad-c104-4dbb-8ab5-3d15d43e93fb",
+      "createdAt": "2026-07-02T07:18:12.907Z",
+      "updatedAt": "2026-07-02T07:18:12.907Z"
+    }
+  ]
+}

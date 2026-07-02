@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-paper text-ink font-sans antialiased;
+}
+
+/* A couple of small, reusable pieces so components don't repeat the same
+   long className strings everywhere. Kept minimal on purpose. */
+.btn-primary {
+  @apply bg-moss text-white px-4 py-2 rounded-md text-sm font-medium
+    hover:bg-moss-dark transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-ghost {
+  @apply border border-line text-ink px-4 py-2 rounded-md text-sm font-medium
+    hover:bg-white transition-colors;
+}
+
+.input {
+  @apply w-full border border-line rounded-md px-3 py-2 text-sm bg-white
+    focus:outline-none focus:ring-2 focus:ring-moss/40 focus:border-moss;
+}
+
+.card {
+  @apply bg-white border border-line rounded-lg;
+}
+
+/* Used by the Add Lead slide-over panel's entrance animation */
+@keyframes slideIn {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
