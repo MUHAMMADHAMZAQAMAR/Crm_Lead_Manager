@@ -47,6 +47,14 @@
       "password": "$2a$10$Rgn7EDVOrD2V7t0ZnrTLfuiWvQhSny5L5sWTjqlctelq7MvGH3Mx.",
       "createdAt": "2026-07-02T13:06:19.492Z",
       "updatedAt": "2026-07-02T13:06:19.492Z"
+    },
+    {
+      "_id": "f66e2e9c-1140-44c4-957b-869de6fb47f8",
+      "name": "adfadf",
+      "email": "2023-bs-se-157@tuf.edu.pk",
+      "password": "$2a$10$68Omoef14goCxJMRZzwEYeq4lCfB825oDpsToQXXK1BvdwpO.sQnS",
+      "createdAt": "2026-07-03T05:53:26.214Z",
+      "updatedAt": "2026-07-03T05:53:26.214Z"
     }
   ],
   "leads": [
